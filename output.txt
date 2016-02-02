@@ -1,0 +1,116 @@
+Entering testUnion...
+
+Test case 1 Passed.
+Test case 2 Passed.
+Test case 3 Passed.
+Test case 4 Passed.
+Test case 5 Passed.
+Test case 6 Passed.
+Test case 7 Passed.
+Test case 8 Passed.
+
+testUnion complete.
+
+Entering testIntersection...
+
+Test case 1 Passed.
+Test case 2 Passed.
+Test case 3 Passed.
+Test case 4 Passed.
+Test case 5 Passed.
+Test case 6 Passed.
+Test case 7 Passed.
+Test case 8 Passed.
+
+testIntersection complete.
+
+Entering testDifference...
+
+Test case 1 Passed.
+Test case 2 Passed.
+Test case 3 Passed.
+Test case 4 Passed.
+Test case 5 Passed.
+Test case 6 Passed.
+Test case 7 Passed.
+Test case 8 Passed.
+
+testDifference complete.
+
+Entering testProduct...
+
+Test case 1 Passed.
+Test case 2 Passed.
+Test case 3 Passed.
+Test case 4 Passed.
+Test case 5 Passed.
+Test case 6 Passed.
+Test case 7 Passed.
+Test case 8 Passed.
+
+testProduct complete.
+
+Entering testIsEqual...
+
+Test case 1 Passed.
+Test case 2 Passed.
+Test case 3 Passed.
+Test case 4 Passed.
+Test case 5 Passed.
+Test case 6 Passed.
+Test case 7 Passed.
+Test case 8 Passed.
+
+testIsEqual complete.
+
+Entering testIsSubset...
+
+Test case 1 Passed.
+Test case 2 Passed.
+Test case 3 Passed.
+Test case 4 Passed.
+Test case 5 Passed.
+Test case 6 Passed.
+Test case 7 Passed.
+Test case 8 Passed.
+
+testIsSubset complete.
+
+Entering testGetCount...
+
+Test case 1 Passed.
+Test case 2 Passed.
+Test case 3 Passed.
+Test case 4 Passed.
+Test case 5 Passed.
+Test case 6 Passed.
+Test case 7 Passed.
+Test case 8 Passed.
+
+testGetCount complete.
+
+Entering testGetCardinality...
+
+Test case 1 Passed.
+Test case 2 Passed.
+Test case 3 Passed.
+Test case 4 Passed.
+Test case 5 Passed.
+Test case 6 Passed.
+Test case 7 Passed.
+Test case 8 Passed.
+
+testGetCardinality complete.
+
+Entering testToString...
+
+Test case 1 Passed.
+Test case 2 Passed.
+Test case 3 Passed.
+Test case 4 Passed.
+Test case 5 Passed.
+Test case 6 Passed.
+Test case 7 Passed.
+Test case 8 Passed.
+
+testToString complete.
