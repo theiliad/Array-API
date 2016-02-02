@@ -5,4 +5,4 @@ An input.txt file is read into a 3D array and everything goes from there.
 
 Watch This Quick Video
 
-<iframe src="www.stockdrops.com" />
+<img src="http://i.giphy.com/weDTu0QV1Mkdq.gif" />
